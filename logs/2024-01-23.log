@@ -266,3 +266,11 @@ Completed: 400 message:  Time response: 5 ms Request ID: [92c844c0-406d-44bb-881
 Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:31:44 GMT-0300 (hora de verano de Chile)
   Parameters in body: {"user":{"email":"test1@test.com","password":"123456"}}
 Completed: 400 message:  Time response: 18 ms Request ID: [d91cab70-f211-4bf9-9218-08fa9d3ae472]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 17:49:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456"}}
+Completed: 400 message:  Time response: 18 ms Request ID: [e4a26266-bbc9-4ccb-93c4-b528708676ac]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 17:50:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"hola","apellido":"chao"}}
+Completed: 400 message:  Time response: 219 ms Request ID: [49effc02-6cd9-4349-ac8e-d578d54bbb92]

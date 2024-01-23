@@ -18,7 +18,7 @@ const validateParametersUser = [
     (req, res, next) => {
         const errors = validationResult(req);
         console.log(errors);
-        if (!errors.isEmpty()) {
+        if (!errors.isLength === 0) {
             return res.status(400).json({ errors: errors.array() });
         }
         next();
