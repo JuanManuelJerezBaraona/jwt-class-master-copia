@@ -17,7 +17,6 @@ const validateParametersUser = [
     check('user.apellido').notEmpty().withMessage('El apellido es requerido'),
     (req, res, next) => {
         const errors = validationResult(req);
-        console.log(errors);
         if (!errors.isLength === 0) {
             return res.status(400).json({ errors: errors.array() });
         }
