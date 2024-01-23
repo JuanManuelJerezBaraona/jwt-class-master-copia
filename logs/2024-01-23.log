@@ -1,0 +1,268 @@
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:13:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 13 ms Request ID: [04dbf6d2-6096-4aa6-b266-ae814a693bad]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:13:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user.email":"test1@test.com"}
+Completed: 400 message:  Time response: 4 ms Request ID: [100120fc-d5f2-47e3-a14b-bc4f079fdd88]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:14:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user.email":"test1@test.com","user.password":"123456"}
+Completed: 400 message:  Time response: 4 ms Request ID: [b74fe758-8358-45cd-ad5d-40cf3474758b]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:14:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user.email":"test1@test.com","user.password":"123456","user.nombre":"test1"}
+Completed: 400 message:  Time response: 3 ms Request ID: [1b916982-fcdf-4d6a-ba0b-25cf7904f018]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:14:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user.email":"test1@test.com","user.password":"123456","user.nombre":"Juan","user.apellido":"Jerez"}
+Completed: 400 message:  Time response: 3 ms Request ID: [baff058a-cf64-4c8a-9ae0-a2d21b4e320b]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:15:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user.email":"test1@test.com","user.password":"123456","user.apellido":"Jerez"}
+Completed: 400 message:  Time response: 3 ms Request ID: [e3afa8e6-7f80-48a5-8b05-c6d54a31ab49]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:15:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user.email":"test1@test.com","user.password":"123456","user.nombre":"juan","user.apellido":"jerez"}
+Completed: 400 message:  Time response: 2 ms Request ID: [7699d5f6-bbc3-4a22-be98-af07b8a2868b]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:16:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user.email":"test1@test.com","user.password":"123456","user.nombre":"juan","user.apellido":"jerez"}
+Completed: 400 message:  Time response: 2 ms Request ID: [e66e9b39-512e-410f-89a2-ad44f8243b1a]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:22:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com"}}
+Completed: 400 message:  Time response: 2 ms Request ID: [57888647-1d70-4615-864a-b9c4c4e7dd7a]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:22:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456"}}
+Completed: 400 message:  Time response: 2 ms Request ID: [1cfae829-fba0-4f74-be18-5aff93823fad]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:22:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"juan"}}
+Completed: 400 message:  Time response: 2 ms Request ID: [0e4d4102-6c6a-485a-af67-9601a62493dc]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:23:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"juan","apellido":"jerez"}}
+Completed: 400 message:  Time response: 168 ms Request ID: [350c0235-2c48-4e42-bbab-109e391f214d]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:23:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":123456,"nombre":"juan","apellido":"jerez"}}
+Completed: 400 message:  Time response: 3 ms Request ID: [3fb5f5b7-b933-43d8-9033-adca86d2f2df]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:23:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"juan","apellido":"jerez"}}
+Completed: 400 message:  Time response: 127 ms Request ID: [afe471c6-4459-4a60-b4ee-1e54da4c1f20]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:25:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"juan","apellido":"jerez"}}
+Completed: 400 message:  Time response: 160 ms Request ID: [d2745916-fd15-4b6b-af1a-e1126b37ef11]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:27:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","nombre":"juan","apellido":"jerez"}}
+Completed: 400 message:  Time response: 12 ms Request ID: [7fb9dbb3-251d-4fd8-83da-33ac0a534a48]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:27:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"juan","apellido":"jerez"}}
+Completed: 400 message:  Time response: 140 ms Request ID: [f8ab1547-e7ee-4744-b294-be3fb130cca9]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:29:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"juan","apellido":"jerez"}}
+Completed: 400 message:  Time response: 149 ms Request ID: [0da71be2-d6cf-446c-b11f-dc3db2917152]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:30:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"test1@test.com","password":"123456","nombre":"juan","apellido":"jerez"}
+Completed: 400 message:  Time response: 11 ms Request ID: [5e8cd5bd-ac25-4856-a03f-9cc1d2cdf4fe]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:30:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user.email":"test1@test.com","password":"123456","nombre":"juan","apellido":"jerez"}
+Completed: 400 message:  Time response: 4 ms Request ID: [04011fd3-1c1b-48d4-b9e2-cddafec9a708]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:31:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"test1@test.com","password":"123456","nombre":"juan","apellido":"jerez"}
+Completed: 400 message:  Time response: 2 ms Request ID: [24cff6ea-595a-4ac6-b11c-fa7d96eb2052]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:31:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"test1@test.com","password":"123456","nombre":"juan","apellido":"jerez"}
+Completed: 400 message:  Time response: 13 ms Request ID: [995d6eed-5f35-41f9-8d0a-cddab42bee6e]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:31:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"test1@test.com","password":"123456","nombre":"juan","apellido":"jerez"}
+Completed: 400 message:  Time response: 13 ms Request ID: [127d71c8-c8bf-4f4e-ac6b-e56db2c24879]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:32:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"test1@test.com","password":"123456","nombre":"juan"}
+Completed: 400 message:  Time response: 4 ms Request ID: [fd7adc26-b6c5-4b00-965a-d1405ec934e7]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:32:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"test1@test.com","password":"123456","nombre":"juan","apellido":"jerez"}
+Completed: 400 message:  Time response: 3 ms Request ID: [9449fdca-c049-4ed8-b73e-4e26f9f857bf]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:34:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user.email":"test1@test.com","user.password":"123456","user.nombre":"juan","user.apellido":"jerez"}
+Completed: 400 message:  Time response: 13 ms Request ID: [12aabf18-a47d-447a-ad71-ee30251f2c0a]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:35:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user.email":"test1@test.com","user.password":"123456","user.nombre":"juan","user.apellido":"jerez"}
+Completed: 400 message:  Time response: 13 ms Request ID: [126e7566-7b86-42d3-9204-6e44be216125]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:36:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user.email":"test1@test.com","user.password":"123456","user.nombre":"juan","user.apellido":"jerez"}
+Completed: 400 message:  Time response: 12 ms Request ID: [f12fbd3b-281c-4d19-b737-cfffa263e832]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:38:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com"}}
+Completed: 400 message:  Time response: 13 ms Request ID: [59466ffb-58cc-4d4a-9128-1230a5453ad4]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:38:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456"}}
+Completed: 400 message:  Time response: 13 ms Request ID: [eb8cb8bb-1dcd-4e1f-b51a-981dcbc26584]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:39:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john"}}
+Completed: 400 message:  Time response: 3 ms Request ID: [958bed61-7e68-4dc1-899f-0a5ef17e6ffe]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:39:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 141 ms Request ID: [1fd93a52-b827-4625-aaab-74eff0264d23]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:41:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john"}}
+Completed: 400 message:  Time response: 3 ms Request ID: [7e7bc203-e40b-4728-9bd6-0df18cef15a6]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:43:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456"}}
+Completed: 400 message:  Time response: 2 ms Request ID: [0eee86a4-3f6a-4ae8-aaf7-2660a05b7c23]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:43:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com"}}
+Completed: 400 message:  Time response: 3 ms Request ID: [2247dfb9-93a4-412e-bccc-e74f1fe9eadd]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:46:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 124 ms Request ID: [02183a4c-cb43-4bbf-a297-10c1490274d9]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:51:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 153 ms Request ID: [ec239dfb-9677-46ee-98fe-0eb0d6a8247f]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:51:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 150 ms Request ID: [76a558a3-f26c-431b-b749-52fb7d00981e]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:52:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 119 ms Request ID: [737bfda6-c57f-4748-b62f-4702f033ec8e]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:52:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john"}}
+Completed: 400 message:  Time response: 7 ms Request ID: [6905517b-5b31-42ad-b1ee-8af4aebdac20]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:53:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 117 ms Request ID: [90f8f711-7f2a-4811-a202-5bdc3afd89c9]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:54:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 149 ms Request ID: [e87a199b-24fd-4f45-a98b-98237154be11]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:54:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 149 ms Request ID: [b8928e87-867a-45c2-bc14-67d56bc9470a]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 09:55:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 154 ms Request ID: [890b9218-8c23-4b1c-9270-7eff13529397]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:00:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 153 ms Request ID: [3cf11288-1231-49d4-85ae-83fada494300]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:01:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john"}}
+Completed: 400 message:  Time response: 7 ms Request ID: [72de0705-1426-4d91-9e8b-6e7676e6120d]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:02:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 122 ms Request ID: [859ec930-6d00-4e57-b523-e135c75723e1]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:12:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 147 ms Request ID: [6d8c98aa-4322-4bec-97a5-bc5e96b0a06b]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:12:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 127 ms Request ID: [cbbd38a6-d4ec-4cb2-94b8-d52f570a90ab]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:12:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 117 ms Request ID: [7f1a97a1-fd11-429b-9b50-fb89079915d1]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:13:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 120 ms Request ID: [9671760c-a075-458d-92b2-9da5651d81d4]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:16:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 122 ms Request ID: [0c6c2381-e40d-4f8c-89db-3b685c686e58]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:16:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 122 ms Request ID: [ae131cfe-7164-4fab-b78a-ca247f6a69e3]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:16:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 126 ms Request ID: [2ad073c1-d2de-41d6-b331-1f08af626871]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:18:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456","nombre":"john","apellido":"dow"}}
+Completed: 400 message:  Time response: 233 ms Request ID: [d0c5e889-9c1e-4d5c-b9e0-e0de4093a5e7]
+
+Started POST /api/v1/auth_user for :: ::1 at Tue Jan 23 2024 10:21:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456"}}
+Completed: 500 message:  Time response: 45 ms Request ID: [cac90a49-badc-4387-9ef6-3c63a03b96a0]
+
+Started POST /api/v1/auth_user for :: ::1 at Tue Jan 23 2024 10:21:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com"}}
+Completed: 400 message:  Time response: 2 ms Request ID: [3ff63e07-7068-424d-b82b-b6c998f60653]
+
+Started POST /api/v1/auth_user for :: ::1 at Tue Jan 23 2024 10:21:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456"}}
+Completed: 500 message:  Time response: 45 ms Request ID: [2cefb0d0-ce9a-4009-812f-705c666a701f]
+
+Started POST /api/v1/auth_user for :: ::1 at Tue Jan 23 2024 10:21:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"qwe"}}
+Completed: 500 message:  Time response: 35 ms Request ID: [caf3bdd5-2c42-476d-b421-2733f8ef6bb6]
+
+Started POST /api/v1/auth_user for :: ::1 at Tue Jan 23 2024 10:21:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"qwertyuio"}}
+Completed: 500 message:  Time response: 42 ms Request ID: [65135bd1-c776-4dcf-bfda-375c3b65f294]
+
+Started POST /api/v1/auth_user for :: ::1 at Tue Jan 23 2024 10:28:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"qwertyuio"}}
+Completed: 500 message:  Time response: 145 ms Request ID: [9d3d6ed0-d077-4b7d-8dab-cfde0903700c]
+
+Started POST /api/v1/auth_user for :: ::1 at Tue Jan 23 2024 10:29:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456"}}
+Completed: 500 message:  Time response: 37 ms Request ID: [f31b4b24-b696-4d0b-b025-3aef576b0295]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:30:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456"}}
+Completed: 400 message:  Time response: 2 ms Request ID: [6fab4b28-a58f-4403-86c8-73c96234cafe]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:31:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456"}}
+Completed: 400 message:  Time response: 14 ms Request ID: [6a01e6ec-607e-4c26-a596-fa079bd7305f]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:31:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456"}}
+Completed: 400 message:  Time response: 7 ms Request ID: [a032ba05-068b-4bf8-bf5d-342bb0af3162]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:31:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456"}}
+Completed: 400 message:  Time response: 5 ms Request ID: [92c844c0-406d-44bb-8816-f1718deaf6e7]
+
+Started POST /api/v1/users for :: ::1 at Tue Jan 23 2024 10:31:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"test1@test.com","password":"123456"}}
+Completed: 400 message:  Time response: 18 ms Request ID: [d91cab70-f211-4bf9-9218-08fa9d3ae472]
